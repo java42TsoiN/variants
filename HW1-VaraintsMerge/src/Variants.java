@@ -5,6 +5,7 @@ public class Variants {
 		// TODO Auto-generated method stub
 		System.out.println("There are following variants:");
 		System.out.println("Variant 1");
+		System.out.println("Variant 2");
 	}
 
 }
