@@ -7,6 +7,7 @@ public class Variants {
 		System.out.println("Variant 1");
 		System.out.println("Variant 2");
 		System.out.println("Variant 3");
+		System.out.println("Variant 4");
 	}
 
 }
